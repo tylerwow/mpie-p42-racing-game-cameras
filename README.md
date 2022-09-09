@@ -51,6 +51,7 @@ Once you have multiple cars that you can control independently, create the split
 
 If you complete all the above tasks before the end of the practical, consider the following tasks:
 
+- Make your static camera from task 2 follow the car around the scene using the LookAt function in a script https://docs.unity3d.com/ScriptReference/Transform.LookAt.html
 - Create a first-person camera with a rear-view mirror that shows what is behind the car.
 - Write a script that allows you to switch between multiple cameras using a key on keyboard, see: http://docs.unity3d.com/ScriptReference/Camera-allCameras.html.
 - Explore how to use Unity’s camera animation features to create a camera view that sweeps around the terrain before settling on the car, when the scene loads, see: https://youtu.be/iSn0hnxpE2w.
