@@ -20,8 +20,8 @@ The SimpleRacingGame scene contains no camera. Therefore, nothing is seen when t
 
 Your first task is to create a static camera that is oriented towards initial position of the car. Once you’ve created this camera, experiment with driving the car using the following controls:
 
-- Steering: W/S keys
-- Accelerate/Brake: A/D keys
+- Steering: A/D keys
+- Accelerate/Brake: W/S keys
 
 ## Task 3: Follow Camera
 
